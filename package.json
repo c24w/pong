@@ -1,0 +1,23 @@
+{
+  "name": "pong",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0",
+    "requirejs": "~2.1.8",
+    "chai": "~1.8.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/c24w/pong.git"
+  },
+  "author": "Chris Watson",
+  "license": "BSD"
+}
